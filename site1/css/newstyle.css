@@ -1,0 +1,62 @@
+body{
+  background-color: #E4F9F5;
+  text-align: center;
+  padding: 200px;
+  font-family: sans-serif ;
+}
+
+h1{
+  color: red;
+  font-size: 50px;
+  font-family: 'Grape Nuts', cursive;
+  margin: auto 0 auto 0;
+}
+
+.top-container{
+
+}
+
+.bottom-container{
+po
+
+}
+
+.middle-container{
+
+}
+.heart:hover{
+  background-color: gold;
+  
+}
+.heart{
+  background-color:  rgb(0, 255, 102);
+  position: absolute ;
+  right: 50px;
+  
+}
+
+#heading{
+  color: black;
+}
+.topcloud{
+  position: absolute;
+  right: 300px;
+  top: 100px;
+  width: 200px;
+
+}
+.btmcloud{
+  position: absolute;
+  top: 350px;
+  left: 300px;
+}
+.round{
+  border-radius: 100%;
+}
+.mnt{
+position: absolute;
+bottom: 0;
+right: 50px;
+width:50px;
+
+}

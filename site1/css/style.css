@@ -1,0 +1,21 @@
+
+body
+  {
+background-color: powderblue;
+  }
+  h1
+  {
+    color: #66BFBF
+  }
+
+  h2
+  {
+    color: #66BFBF
+  }
+  hr{
+    border-style: none;
+    border-top: dotted;
+    border-color: white;
+    border-size: 5px;
+    width: 7%;
+  }
